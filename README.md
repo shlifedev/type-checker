@@ -31,8 +31,11 @@
 ```
 
 ## TypeChecker Initialize And Use
+
+```cs
  var checker = new TypeChecker().Initialize();
  checker["number"].Read("2000")_ => 2000
  checker[typeof(int)].Read("3000") => 3000
+```cs
  
  
