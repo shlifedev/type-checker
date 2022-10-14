@@ -51,7 +51,7 @@ Even, You can declare enum parser
 
 ```cs
 void Example(){
-  var checker = new TypeChecker().Initialize();
+  var checker = new TypeChecker();
   
       checker["number"].Read("2000")_ => 2000 
       checker["Integer"].Read("2000")_ => 2000
