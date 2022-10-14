@@ -4,7 +4,7 @@
 # How to use
 
 ## Declare for 'T' with Keyword You Want Use IType Interface
-Just extends `IType<T>` interface about `T`. it's `int type` read example below.
+Just extends `IType<T>` interface about `T` like below.
 
 ```cs  
     class IntType : IType<int>
