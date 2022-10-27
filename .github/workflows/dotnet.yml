@@ -28,5 +28,6 @@ jobs:
       env: 
         GITHUB_TOKEN: ${{secrets.ACCESSTOKEN}}
       with:
+        folder : "bin/"
         title : "Release"
-  
+
