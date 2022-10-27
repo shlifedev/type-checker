@@ -22,12 +22,4 @@ jobs:
     - name: 디펜던시 체크
       run: dotnet restore
     - name: 빌드
-      run: dotnet build --no-restore -o build
-    - name: release action
-      uses: elgohr/Github-Release-Action@v4
-      env: 
-        GITHUB_TOKEN: ${{secrets.ACCESSTOKEN}}
-      with:
-        folder : "bin/"
-        title : "Release"
-
+      run: dotnet build --no-restore -o build 
