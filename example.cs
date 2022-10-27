@@ -1,10 +1,14 @@
 using CAH.TypeChecker;
 
-TypeChecker tChecker = new TypeChecker();
+class Example
+{
+  static void Main(string[] args)
+  {
+    TypeChecker tChecker = new TypeChecker();
 
 
-var integer  = tChecker["int"].Read(1000);
-var integer2 = tChecker[typeof(int)].Read(1000); 
-var integer3 = tChecker["Number"].Read(4000);
-
- 
+    var integer = tChecker["int"].Read(1000);
+    var integer2 = tChecker[typeof(int)].Read(1000);
+    var integer3 = tChecker["Number"].Read(4000);
+  } 
+}
