@@ -1,0 +1,15 @@
+C:\Users\shlif\type-checker\obj\Debug\net6.0\type-checker.csproj.AssemblyReference.cache
+C:\Users\shlif\type-checker\obj\Debug\net6.0\type-checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shlif\type-checker\obj\Debug\net6.0\type-checker.AssemblyInfoInputs.cache
+C:\Users\shlif\type-checker\obj\Debug\net6.0\type-checker.AssemblyInfo.cs
+C:\Users\shlif\type-checker\obj\Debug\net6.0\type-checker.csproj.CoreCompileInputs.cache
+C:\Users\shlif\type-checker\bin\Debug\net6.0\type-checker.deps.json
+C:\Users\shlif\type-checker\bin\Debug\net6.0\type-checker.dll
+C:\Users\shlif\type-checker\bin\Debug\net6.0\type-checker.pdb
+C:\Users\shlif\type-checker\obj\Debug\net6.0\type-checker.dll
+C:\Users\shlif\type-checker\obj\Debug\net6.0\refint\type-checker.dll
+C:\Users\shlif\type-checker\obj\Debug\net6.0\type-checker.pdb
+C:\Users\shlif\type-checker\obj\Debug\net6.0\ref\type-checker.dll
+C:\Users\shlif\type-checker\buildd\type-checker.deps.json
+C:\Users\shlif\type-checker\buildd\type-checker.dll
+C:\Users\shlif\type-checker\buildd\type-checker.pdb
