@@ -1,0 +1,14 @@
+C:\Users\shlif\type-checker\Sample\bin\Debug\netcoreapp3.1\Sample.exe
+C:\Users\shlif\type-checker\Sample\bin\Debug\netcoreapp3.1\Sample.deps.json
+C:\Users\shlif\type-checker\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.json
+C:\Users\shlif\type-checker\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.dev.json
+C:\Users\shlif\type-checker\Sample\bin\Debug\netcoreapp3.1\Sample.dll
+C:\Users\shlif\type-checker\Sample\bin\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\shlif\type-checker\Sample\obj\Debug\netcoreapp3.1\Sample.csproj.AssemblyReference.cache
+C:\Users\shlif\type-checker\Sample\obj\Debug\netcoreapp3.1\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shlif\type-checker\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfoInputs.cache
+C:\Users\shlif\type-checker\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfo.cs
+C:\Users\shlif\type-checker\Sample\obj\Debug\netcoreapp3.1\Sample.csproj.CoreCompileInputs.cache
+C:\Users\shlif\type-checker\Sample\obj\Debug\netcoreapp3.1\Sample.dll
+C:\Users\shlif\type-checker\Sample\obj\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\shlif\type-checker\Sample\obj\Debug\netcoreapp3.1\Sample.genruntimeconfig.cache

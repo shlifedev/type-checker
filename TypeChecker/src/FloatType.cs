@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;  
+using System.Collections.Generic;
 namespace CAH.TypeChecker
 {
     internal class FloatType : IType<float>
@@ -15,7 +15,7 @@ namespace CAH.TypeChecker
                 return float.Parse(value);
             }
             catch (Exception err)
-            { 
+            {
                 throw err;
             }
         }

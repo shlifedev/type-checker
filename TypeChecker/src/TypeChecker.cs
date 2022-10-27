@@ -6,7 +6,7 @@ namespace CAH.TypeChecker
 {
     public class TypeChecker 
     {
-        public DeclaredType this[string key] => _declares[key];
+        public DeclaredType this[string key] => _declares[key.ToLower()];
         public DeclaredType this[Type key] => _declaresWithType[key];
 
         private static Dictionary<string, DeclaredType> _declares;
@@ -64,6 +64,7 @@ namespace CAH.TypeChecker
                     typeReader = Activator.CreateInstance(type); 
                     var declaredType = new DeclaredType(typeReader as IType);
                     var declareKeywords = declaredType.GetDeclares().Distinct();
+ 
                     foreach (var declamation in declareKeywords)
                     {
                         var lower = declamation.ToLower();
@@ -72,7 +73,7 @@ namespace CAH.TypeChecker
                             throw new Exception(type.GetType().Name);
                         }
                         else
-                        {
+                        { 
                             _declares[lower] = declaredType;
                             _declaresWithType[declaredType.BaseType] = declaredType;
                        }
