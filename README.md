@@ -13,9 +13,9 @@ void Example(){
       
       // useful case
       
-      string columns = "userName:string"
+      string column = "userName:string"
       strimg values = ["abc123", "ghost", "devil"]
-      string type = columns.Trim().Split(':')[1];
+      string type = column.Trim().Split(':')[1];
       
       foreach(var value in values){
             Console.WriteLine(typeChecker[type].Read(value));
